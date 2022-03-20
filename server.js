@@ -28,4 +28,4 @@ io.on('connection', socket => {
   });
 });
 
-server.listen('https://jefersonng.github.io/chat-web/');
+server.listen('443');
